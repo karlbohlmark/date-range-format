@@ -1,0 +1,13 @@
+{
+  "name": "date-range-format",
+  "repo": "karlbohlmark/date-range-format",
+  "description": "Human friendly date ranges",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

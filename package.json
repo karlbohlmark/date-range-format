@@ -1,0 +1,29 @@
+{
+  "name": "date-range-format",
+  "version": "0.0.0",
+  "description": "Human friendly date ranges",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/test.js --require should --reporter spec --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:karlbohlmark/date-range-format.git"
+  },
+  "keywords": [
+    "date",
+    "format"
+  ],
+  "author": "Karl Böhlmark",
+  "license": "BSD",
+  "dependencies": {
+    "tap": "~0.3.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
